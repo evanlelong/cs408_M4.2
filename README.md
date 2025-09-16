@@ -1,4 +1,4 @@
-# web-dev-starter
+# P4
 
 This is a starter project for web development with no frameworks and minimal
 dependencies. It is intended to be a starting point for web development projects
@@ -20,6 +20,8 @@ locally. This will allow you to see changes in real-time as you make them. There
 is no need to run a build process or refresh the page manually. Additionally,
 you do not need to setup a local server to run the project.
 
+This project was pretty good to learn some nice CSS I also added my own stuff and changed it up a little bit to make it look like how I wanted to look like.
+
 ## Testing
 
 To run the tests for the project, run the following command:
@@ -27,3 +29,5 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+I did not add any new tests
